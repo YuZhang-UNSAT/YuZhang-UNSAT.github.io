@@ -40,13 +40,13 @@ Experience
   * **Quality index development:** Pioneer the first quality measure for construction big data in EPB shield tunneling, which consists of three components, i.e., representativeness, diversity, and informativeness
   * **Verify the effectiveness of the proposed quality index:** The quality index of data is quantitatively compared with the performance of the models developed by data via a correlation analysis, the high R-values that more than 0.9 confirms the effectiveness of the quality index 
 ![qi](http://renyuhao825.github.io/images/QI-9-7.PNG)
-<center> Validation process. More details will be posted in an official release. </center>
+<center> More details will be posted in an official release. </center>
 
 *  **Data-driven modeling for ground loss in EPB shield tunneling**
     * **Evaluation of existing methods for ground loss:** Survey the existing formulations for ground loss, and quantitatively evaluate them based on the collected field dataset 
     * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
 ![rf](http://renyuhao825.github.io/images/GL-9-7.PNG)
-<center> A hybrid algorithm for settlement prediction. More details can be found in the published version. </center>
+<center> More details can be found in the published version. </center>
 
 * **Transfer learning for chamber pressure prediction in EPB shield tunneling**
   * **Transfer learning framework for chamber pressure prediction:** Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects
