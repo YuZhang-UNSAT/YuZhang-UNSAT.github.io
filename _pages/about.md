@@ -20,6 +20,9 @@ redirect_from:
 
 Recent News
 ======
+
+- I will give a presentation about *A quality index for construction big data in EPB shield tunneling* at IGES 2023. 
+
 - We will participate in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition.
 
 - I attended HKUST(GZ) joint summer camp. Interesting journey!
