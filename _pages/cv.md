@@ -12,17 +12,14 @@ redirect_from:
 Education
 ======
 * M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2024
-* B.S. in Chongqing Jiaotong University, Civil Engineering, 2021
+* B.S. in Hunan University, Civil Engineering, 2021
 
 Publication 
 ======
-1. **Ren, Y.**, Zhang, C.\*, Zhu, M., Chen, R., Wang, J. (2023). Significance and formulation of ground loss in tunnelinginduced settlement prediction: a data-driven study. *Acta Geotechnica*, 1-16. (**Impact Factor : 6.0**) 
+1. Zhang, C.\*, **Li, L.**,  Hu, S., Gou, L., Chen, R. (2023). Physical Origin of Adsorption Heat and Its Significance in the Isotherm Equation. *International Journal of Heat and Mass Transfer*, (Under revision) 
 
-2. He, S.\*, **Ren, Y.**, Liu, H., Liang, B., Du, G. (2022). A novel tunnel lighting method aided by highly diffuse reflective materials on the sidewall: Theory and practice. *Tunnelling and Underground Space Technology*, 122, 104336. (**Impact Factor : 6.9**)  
+2. **Li, L.**, Zhang, C.\*, Hu, S. (2023). Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil: An Infrared Spectroscopy Study. (In preparing)
 
-3. Geng, Z., Zhang, C.\*, **Ren, Y.**, Zhu, M., Chen, R., Cheng, H. (2023). A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling. *arXiv preprint arXiv:2305.05128.* (Under revision) 
-
-4. **Ren, Y.**, Zhang, C.\*. (2023). A quality index for construction big data in EPB shield tunneling. (In preparing) 
 
 \*:Supervisor 
 
