@@ -28,11 +28,10 @@ Publication
 
 Experience 
 ======
-* **Physics-informed inverse modeling for SWRC and HCF**
-  * **Specify an inverse PINN for identifying SWRC and HCF:**  Encode the Richardson-Richards equation (RRE) with unknown parameters that determine the hydraulic properties into the loss function of a neural network, yielding a novel PINN for identifying the constitutive models
-  * **Validation:** Simulated data and experiment data are utilized for demonstrating the effectiveness of the proposed framework 
+* **Physical origins and significance of adsorption heat**
+  * **Specify an inverse PINN for identifying SWRC and HCF:**  Adsorption heat is a cornerstone concept underpinning almost all the existing theoretical isotherms for porous media. However, it remains elusive what this concept stands for and what the physical sources are for it. This work elucidated the physical origins of the adsorption heat with the aid of the law of mass action, facilitating the establishment of a two-parameter sorption isotherm equation theoretically converted to two widely used adsorption isotherm equations.
 ![pinn](http://renyuhao825.github.io/images/pinn.png)
-<center> Structure of the proposed framework. More details will be posted in an official release. </center>
+<center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. More details will be posted in an official release. </center>
 
 
 
