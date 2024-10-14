@@ -29,8 +29,8 @@ Publication
 Experience 
 ======
 * **Physical origins and significance of adsorption heat**
-  * **Specify an inverse PINN for identifying SWRC and HCF:**  Adsorption heat is a cornerstone concept underpinning almost all the existing theoretical isotherms for porous media. However, it remains elusive what this concept stands for and what the physical sources are for it. This work elucidated the physical origins of the adsorption heat with the aid of the law of mass action, facilitating the establishment of a two-parameter sorption isotherm equation theoretically converted to two widely used adsorption isotherm equations.
-![pinn](http://renyuhao825.github.io/images/pinn.png)
+  * Adsorption heat is a cornerstone concept underpinning almost all the existing theoretical isotherms for porous media. However, it remains elusive what this concept stands for and the physical sources for it. This work elucidated the physical origins of the adsorption heat with the aid of the law of mass action, facilitating the establishment of a two-parameter sorption isotherm equation theoretically converted to two widely used adsorption isotherm equations.
+![pinn](http://Lilj1999.github.io/images/AdsorptionHeatFig1.png)
 <center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. More details will be posted in an official release. </center>
 
 
