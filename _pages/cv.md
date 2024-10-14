@@ -37,7 +37,7 @@ Experience
 
 * **Hydrogen bonding Network of adsorptive water in variably saturated soil**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network and density of adsorptive water in soils remains challenging. This work introduced a new test method viz Infrared spectroscopy to quantitively characterize the evolution of adsorbed water in soils within a drying-wetting cycle.
-![qi](http://Lilj1999.github.io/images/InfraredFig2.PNG)
+![qi](http://Lilj1999.github.io/images/InfraredFig2.jpg)
 <center> More details will be posted in an official release. </center>
 
 *  **Data-driven modeling for ground loss in EPB shield tunneling**
