@@ -57,8 +57,29 @@ Experience
   * **Transfer learning of surrogate model:** We implemented transfer learning methods for maintaining the effectiveness of the developed models under different geological conditions 
 
 
+Skills
+======
+* **Knowledge**
+  * Unsaturated soil mechanics
+  * Thermodynamics
+  * Statistics
+  * Nucleation theory
+  * *ab initio* theory
+
+* **Experiment skill**
+  * Fourier transformation Infrared spectroscopy
+  * Small-angle neutron scattering
+  * Wide-range X-ray scattering
+  * Axis translation technique
+ 
+* **Programming & Software**
+  * Python
+  * MATLAB
+  * LAMMPS
+  * ANSYS
+
 Honors and Awards  
 ======
-1. **Chinese National Encouragement Scholarship** - May, 2019 
-2. **First-class Prize** of Chongqing Mathematical Contest in Modeling- September, 2019 
-3. **S-award** of International Mathematical Contest in Modeling - March, 2020
+1. Outstanding Undergraduate Graduates of Hunan Province, Department of Education of the Hunan Province, May 2021 
+2. First Class Scholarship of Hunan University, Hunan University, November 2020
+3. Champion of Hunan University Volleyball League, Jun. 2023-2024.
