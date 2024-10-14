@@ -77,6 +77,12 @@ Skills
   * MATLAB
   * LAMMPS
   * ANSYS
+ 
+* **Others**
+  * Office
+  * LaText
+  * Sketchbook
+  * IELTS 7.0 band  
 
 Honors and Awards  
 ======
