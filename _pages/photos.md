@@ -5,7 +5,7 @@ permalink: /photos/
 author_profile: true
 ---
 
-![conference](images/Interpore.jpg)
+![conference](http://Lilj1999.github.io/images/Interpore.jpg)
 <center>I attended the InterPore Annual Meeting. I'm the first from the left.</center>
 
 ![summer camp](http://renyuhao825.github.io/images/summercamp.jpg)
