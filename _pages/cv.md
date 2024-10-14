@@ -12,13 +12,16 @@ redirect_from:
 Education
 ======
 * M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2024
-* B.S. in Hunan University, Civil Engineering, 2021
+* B.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2021
 
 Publication 
 ======
-1. Zhang, C.\*, **Li, L.**,  Hu, S., Gou, L., Chen, R. (2023). Physical Origin of Adsorption Heat and Its Significance in the Isotherm Equation. *International Journal of Heat and Mass Transfer*, (Under revision) 
+1. Zhang, C.\*,**L. Li**, S. Hu, L. Gou, and R. Chen. 2024. “Physical origin of adsorption heat and its significance in the isotherm equation.” *International Journal of Heat and Mass Transfer*, 220: 124914. https://doi.org/10.1016/j.ijheatmasstransfer.2023.124914.
 
-2. **Li, L.**, Zhang, C.\*, Hu, S. (2023). Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil: An Infrared Spectroscopy Study. (In preparing)
+2. **Li, L.**, Zhang, C.\*, Hu, S. 2024. Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil: An Infrared Spectroscopy Study. (under review)
+
+3. Zhang, C.\*,**L. Li**,  Or, D., S. Hu. 2024. Interactions with Soil Surfaces Contribute to Hydrologic Isotope Fractionation. (In preparing)
+
 
 
 \*:Supervisor 
