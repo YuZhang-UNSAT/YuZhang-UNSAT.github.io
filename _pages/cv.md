@@ -35,7 +35,7 @@ Experience
 
 
 
-* **Quality index for construction big data in EPB shield tunneling**
+* **Hydrogen bonding Network of adsorptive water in variably saturated soil**
   * **Quality index development:** Pioneer the first quality measure for construction big data in EPB shield tunneling, which consists of three components, i.e., representativeness, diversity, and informativeness
   * **Verify the effectiveness of the proposed quality index:** The quality index of data is quantitatively compared with the performance of the models developed by data via a correlation analysis, the high R-values that more than 0.9 confirms the effectiveness of the quality index 
 ![qi](http://renyuhao825.github.io/images/QI-9-7.PNG)
