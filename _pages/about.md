@@ -32,7 +32,4 @@ Recent news
 
 * **Conference (5/2024)**  I participated in the 16th InterPore annual conference.
 
-* **Papers (11/2024)** Our paper titled ["Physical origin of adsorption heat and its significance in the isotherm equation"](https://doi.org/10.1016/j.ijheatmasstransfer.2023.124914) is published in International Journal of Heat and Mass Transfer. 
-
-
-<a href="https://info.flagcounter.com/O2yJ"><img src="https://s11.flagcounter.com/count2/O2yJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+* **Papers (11/2023)** Our paper titled ["Physical origin of adsorption heat and its significance in the isotherm equation"](https://doi.org/10.1016/j.ijheatmasstransfer.2023.124914) is published in International Journal of Heat and Mass Transfer. 
