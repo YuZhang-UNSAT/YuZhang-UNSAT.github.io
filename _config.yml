@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Yuhao"
 title_separator          : "-"
-name                     : &name "Yuhao"
+name                     : &name "Lijun"
 description              : &description ""
-url                      : "https://renyuhao825.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Lilj1999.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "renyuhao825/renyuhao825.github.io/"
+repository               : "Lilj1999/Lilj1999.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhao REN"
+  name             : "Lijun Li"
   avatar           : "renyuhao_2.jpg"
   bio              : "Hunan University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AOV7GLMWOKQBpiLZ1KGCGugG3FZ5Xq-uzUG6DBmTvl4gfaz9Lhc9R97eL5ZuFNVcZPifB05yvx1kOSJrpeWxZLJyYg0&user=qNqzVTkAAAAJ"
-  email            : "renyuhao@hnu.edu.cn"
+  email            : "lilijun@hnu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yuhao-Ren-6"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "renyuhao825"
+  github           : "Lilj1999"
   google_plus      :
   keybase          :
   instagram        :
