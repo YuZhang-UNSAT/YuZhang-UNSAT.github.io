@@ -44,26 +44,15 @@ Experience
 <center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. More details will be posted in an official release. </center>
 
 
-
-
-
 * **Hydrogen bonding Network of adsorptive water in variably saturated soil**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network and density of adsorptive water in soils remains challenging. This work introduced a new test method viz Infrared spectroscopy to quantitively characterize the evolution of adsorbed water in soils within a drying-wetting cycle.
 ![qi](http://Lilj1999.github.io/images/InfraredFig2.jpg)
 <center> More details will be posted in an official release. </center>
 
 
-*  **Data-driven modeling for ground loss in EPB shield tunneling**
-    * **Evaluation of existing methods for ground loss:** Survey the existing formulations for ground loss, and quantitatively evaluate them based on the collected field dataset 
-    * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
-![rf](http://renyuhao825.github.io/images/GL-9-7.PNG)
-<center> More details can be found in the published version. </center>
+* **Modeling of the nonlinear wave propagation by physics-informed neural networks**
+  * High-energy waves induce nonlinear behaviors, such as thermal effects, in wave propagation. Accurately modeling these complex physical phenomena necessitates coupling multiple partial differential equations into a comprehensive framework, complicating both the establishment and solution of these equations. This study seeks to develop a solution that incorporates these coupled effects using physics-informed neural networks.
 
-* **Transfer learning for chamber pressure prediction in EPB shield tunneling**
-  * **Transfer learning framework for chamber pressure prediction:** Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects
-  * **Performance of the transfer learning frameworks:** Utilize two filed datasets from Tianjin City and Changsha City to quantitatively demonstrate the effectiveness of the selected transfer learning methods in the few-shots problem of chamber pressure prediction 
-![tl](http://renyuhao825.github.io/images/tl.png)
-<center> Transfer learning frameworks for predicting EPB chamber pressure. </center>
 
 * **Stable isotope fractionation in soil water during evaporation** (In preparing)
   * Studies have shown distinctly different isotope fractionation behavior of soil water compared to bulk liquid water. This work attempts to explore how soil-water interaction affects isotope fractionation during evaporation through various experiments and tries to develop a framework for isotope fractionation to quantify the fractionation by thermodynamics. 
