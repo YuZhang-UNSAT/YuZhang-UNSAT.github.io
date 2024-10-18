@@ -18,7 +18,7 @@ In the UNSAT lab, I belong to a four-member group focusing on phase transition f
 Research interests
 ======
 
- My research interests cover the development of physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning for identifying the constitutive model and surrogating the dynamical response of structures.
+My research focuses on the phase transitions of water in porous media, including adsorption, evaporation, and freezing. Recently, I have concentrated on using ab initio molecular dynamics and path integral molecular dynamics to investigate the physical origins of stable isotope effects in water evaporation in unsaturated soil.
 
 
 I am looking for a PhD position! Please feel free to contact me via **lilijun@hnu.edu.cn** or **WeChat at 13980857404**, if you are interested in me.
