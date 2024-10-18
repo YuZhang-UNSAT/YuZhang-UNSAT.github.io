@@ -12,12 +12,17 @@ redirect_from:
 Education
 ======
 * M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2024
+
   GPA: **3.49/4.00**    Ranking:-
+
   Curriculum: Numerical Analysis, Dynamics of Structure, Rock and Soil Dynamics, Advanced Soil Mechanics
   
 * B.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2021
+
   GPA: **3.68/4.00**    Ranking: **7/128**
-  Curriculum: Advanced Mathematics, Mechanics of Materials, Structural Mechanics, Soil Mechanics
+
+  Curriculum: Advanced Mathematics, Theoretical Mechanics, Mechanics of Materials, Structural Mechanics, Soil Mechanics
+
   
 Publication 
 ======
@@ -25,7 +30,7 @@ Publication
 
 2. **Li, L.**, Zhang, C.\*, Hu, S. 2024. Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil: An Infrared Spectroscopy Study. (under review)
 
-3. Zhang, C.\*,**L. Li**,  Or, D., S. Hu. 2024. Interactions with Soil Surfaces Contribute to Hydrologic Isotope Fractionation. (In preparing)
+3. Zhang, C.\*,**L. Li**,  Or, D. 2024. Interactions with Soil Surfaces Contribute to Hydrologic Isotope Fractionation. (In preparing)
 
 
 
@@ -40,10 +45,13 @@ Experience
 
 
 
+
+
 * **Hydrogen bonding Network of adsorptive water in variably saturated soil**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network and density of adsorptive water in soils remains challenging. This work introduced a new test method viz Infrared spectroscopy to quantitively characterize the evolution of adsorbed water in soils within a drying-wetting cycle.
 ![qi](http://Lilj1999.github.io/images/InfraredFig2.jpg)
 <center> More details will be posted in an official release. </center>
+
 
 *  **Data-driven modeling for ground loss in EPB shield tunneling**
     * **Evaluation of existing methods for ground loss:** Survey the existing formulations for ground loss, and quantitatively evaluate them based on the collected field dataset 
@@ -57,9 +65,8 @@ Experience
 ![tl](http://renyuhao825.github.io/images/tl.png)
 <center> Transfer learning frameworks for predicting EPB chamber pressure. </center>
 
-* **Surrogate model for structural response under dynamical loading**
-  * **Surrogate model development:** We are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for the response of underground structures under dynamical loading
-  * **Transfer learning of surrogate model:** We implemented transfer learning methods for maintaining the effectiveness of the developed models under different geological conditions 
+* **Stable isotope fractionation in soil water during evaporation** (In preparing)
+  * Studies have shown distinctly different isotope fractionation behavior of soil water compared to bulk liquid water. This work attempts to explore how soil-water interaction affects isotope fractionation during evaporation through various experiments and tries to develop a framework for isotope fractionation to quantify the fractionation by thermodynamics. 
 
 
 Skills
