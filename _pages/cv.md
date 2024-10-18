@@ -12,8 +12,13 @@ redirect_from:
 Education
 ======
 * M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2024
+  GPA: **3.49/4.00**    Ranking:-
+  Curriculum: Numerical Analysis, Dynamics of Structure, Rock and Soil Dynamics, Advanced Soil Mechanics
+  
 * B.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2021
-
+  GPA: **3.68/4.00**    Ranking: **7/128**
+  Curriculum: Advanced Mathematics, Mechanics of Materials, Structural Mechanics, Soil Mechanics
+  
 Publication 
 ======
 1. Zhang, C.\*,**L. Li**, S. Hu, L. Gou, and R. Chen. 2024. “Physical origin of adsorption heat and its significance in the isotherm equation.” *International Journal of Heat and Mass Transfer*, 220: 124914. https://doi.org/10.1016/j.ijheatmasstransfer.2023.124914.
