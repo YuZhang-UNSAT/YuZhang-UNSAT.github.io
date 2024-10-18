@@ -11,11 +11,9 @@ author_profile: true
 ![summer camp](http://Lilj1999.github.io/images/SummerCamp.jpg)
 <center>I attended Nanjing University's summer camp for stable isotope fractionation. What an interesting journey!</center>
 
-![team](http://renyuhao825.github.io/images/team.jpg)
-<center>Photo with teammates. I made the game-winning shot to defeat the opponent.</center>
+![spike](http://Lilj1999.github.io/images/volleyball.jpg)
+<center>A game from 1 year ago. I am the one spiking the volleyball.</center>
 
-![shot](http://renyuhao825.github.io/images/shot.jpg)
-<center>A game from 1 year ago. I am spiking the ball.</center>
+![team](http://Lilj1999.github.io/images/gym.jpg)
+<center>Photo with my teammates in a cheerleading competition.</center>
 
-![shot_2](http://renyuhao825.github.io/images/shot_2.jpg)
-<center>A game from 4 years ago. I am the one shooting the ball.</center>
