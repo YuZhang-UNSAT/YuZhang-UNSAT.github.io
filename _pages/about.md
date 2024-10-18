@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
 
 I am now a 3rd-year graduate student in the College of Civil Engineering at Hunan University, supervised by Prof. Chao Zhang. I joined Prof. Zhang’s UNSAT lab in 2020 as a 3-rd year undergraduate student.
 
