@@ -61,8 +61,8 @@ Experience
   * Orthodontics utilizes appliances to apply force to teeth, gradually moving them to the desired positions. This process induces stress and strain in surrounding tissues including adjacent teeth, alveolar bone, and periodontal ligaments. These tissue mechanical responses affect the stability of teeth movement. Controlling the stress and strain in surrounding tissues is crucial for optimizing orthodontic outcomes. This work investigates the effect of
 periodontal ligament height on tissue’s mechanical responses under the same orthodontic treatment. It finds that lower periodontal ligament height results in higher stress on the target teeth’s periodontal ligaments, making it easier to reach the load-bearing limit.
 
-* **Effect of periodontal ligament height on orthodontic performance**
-* To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
+* **Heterogeneous ice nucleation of salt solution in porous media**
+  * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
 
 Skills
 ======
