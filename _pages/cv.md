@@ -80,6 +80,7 @@ Skills
   * Wide-range X-ray scattering
   * Axis translation technique
   * Differential scanning calorimetry
+  * Atomic force microscope
  
 * **Programming & Software**
   * Python
