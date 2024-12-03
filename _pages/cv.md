@@ -44,13 +44,8 @@ Experience
 <center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. More details will be posted in an official release. </center>
 
 
-* **Hydrogen bonding Network of adsorptive water in variably saturated soil**
-  * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network and density of adsorptive water in soils remains challenging. This work introduced a new test method viz Infrared spectroscopy to quantitively characterize the evolution of adsorbed water in soils within a drying-wetting cycle.
-![qi](http://Lilj1999.github.io/images/InfraredFig2.jpg)
-<center> More details will be posted in an official release. </center>
-
-* **Stable isotope fractionation in soil water during evaporation** 
-  * Studies have shown distinctly different isotope fractionation behavior of soil water compared to bulk liquid water. This work attempts to explore how soil-water interaction affects isotope fractionation during evaporation through various experiments and tries to develop a framework for isotope fractionation to quantify the fractionation by thermodynamics. 
+* **Heterogeneous ice nucleation of salt solution in porous media**
+  * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
 
 
 * **Modeling of the nonlinear wave propagation by physics-informed neural networks**
@@ -61,8 +56,6 @@ Experience
   * Orthodontics utilizes appliances to apply force to teeth, gradually moving them to the desired positions. This process induces stress and strain in surrounding tissues including adjacent teeth, alveolar bone, and periodontal ligaments. These tissue mechanical responses affect the stability of teeth movement. Controlling the stress and strain in surrounding tissues is crucial for optimizing orthodontic outcomes. This work investigates the effect of
 periodontal ligament height on tissue’s mechanical responses under the same orthodontic treatment. It finds that lower periodontal ligament height results in higher stress on the target teeth’s periodontal ligaments, making it easier to reach the load-bearing limit.
 
-* **Heterogeneous ice nucleation of salt solution in porous media**
-  * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
 
 Skills
 ======
