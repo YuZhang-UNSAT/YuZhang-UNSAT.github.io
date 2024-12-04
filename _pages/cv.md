@@ -50,7 +50,7 @@ Experience
 
 * **Molecular simulation of water adsorbed on mineral**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network density of adsorptive water in soils remains challenging. This work aims to utilize molecular simulation to quantitatively characterize the amount and density evolution of adsorbed water in soils within a drying-wetting cycle.
-<img src="http://Lilj1999.github.io/images/adstest.gif" width="300" />
+<img src="http://Lilj1999.github.io/images/adstest.gif" width="400" />
 <img src="http://Lilj1999.github.io/images/md_rdf.png" width="500" />
 
 * **Modeling of the nonlinear wave propagation by physics-informed neural networks**
