@@ -46,7 +46,8 @@ Experience
 
 * **Heterogeneous ice nucleation of salt solution in porous media**
   * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
-
+<img src="http://Lilj1999.github.io/images/AFM.png" width="500" />
+<img src="http://Lilj1999.github.io/images/Freezing.gif" width="500" />
 
 * **Modeling of the nonlinear wave propagation by physics-informed neural networks**
   * High-energy waves induce nonlinear behaviors, such as thermal effects, in wave propagation. Accurately modeling these complex physical phenomena necessitates coupling multiple partial differential equations into a comprehensive framework, complicating both the establishment and solution of these equations. This study seeks to develop a solution incorporating these coupled effects using physics-informed neural networks.
