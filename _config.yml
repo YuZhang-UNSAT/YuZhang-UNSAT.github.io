@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lijun"
+title                    : "Yu Zhang"
 title_separator          : "-"
-name                     : &name "Lijun"
+name                     : &name "Yu Zhang"
 description              : &description ""
 url                      : "https://Lilj1999.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lijun Li"
-  avatar           : "Llj.png"
+  name             : "Yu Zhang"
+  avatar           : "YuZhang.png"
   bio              : "Hunan University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "lilijun@hnu.edu.cn"
+  email            : "zhangyu10@hnu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Lijun-Li-18/research"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Lilj1999"
+  github           : "YuZhang-UNSAT"
   google_plus      :
   keybase          :
   instagram        :
