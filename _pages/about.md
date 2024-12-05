@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a 3rd-year graduate student in the College of Civil Engineering at Hunan University, supervised by Prof. Chao Zhang. I joined Prof. Zhang’s UNSAT lab in 2020 as a 3-rd year undergraduate student.
+I am now a 3rd-year graduate student in the College of Civil Engineering at Hunan University, supervised by Prof. Chao Zhang. I joined Prof. Zhang’s UNSAT lab in 2022 as a 3-rd year undergraduate student.
 
 In the UNSAT lab, I belong to a four-member group focusing on phase transition for water in unsaturated soil. I worked closely with the other three members. In addition to my research regarding adsorption and evaporation for soil water, I deeply participate in the research of the other three members, e.g., heterogeneous ice nucleation of salt solution in porous media,  the physical origin of freezing point depression of water in millimeter-sized pores, desiccation cracking in porous media, clay pore structure evolution via small-angle neutron scattering and small-angle scattering X-ray scattering, etc.
 
@@ -19,7 +19,7 @@ Research interests
 My research focuses on the phase transitions of water in porous media, including adsorption, evaporation, and freezing. Recently, I have concentrated on using ab initio molecular dynamics and path integral molecular dynamics to investigate the physical origins of stable isotope effects in water evaporation in unsaturated soil.
 
 
-I am looking for a PhD position! Please feel free to contact me via **lilijun@hnu.edu.cn** or **WeChat at 13980857404**, if you are interested in me.
+I am looking for a PhD position! Please feel free to contact me via **zhangyu10@hnu.edu.cn** or **WeChat at 15115626321**, if you are interested in me.
 
 Recent news
 ======
