@@ -50,7 +50,7 @@ Experience
 
 * **Molecular simulation of water adsorbed on mineral**
   * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network density of adsorptive water in soils remains challenging. This work aims to utilize molecular simulation to quantitatively characterize the amount and density evolution of adsorbed water in soils within a drying-wetting cycle.
-<img src="http://Lilj1999.github.io/images/adstest.gif.gif" width="400"/> <img src="http://Lilj1999.github.io/images/md_rdf.png" width="400"/>
+![freezeing](http://Lilj1999.github.io/images/MD.gif)
 
 * **Modeling of the nonlinear wave propagation by physics-informed neural networks**
   * High-energy waves induce nonlinear behaviors, such as thermal effects, in wave propagation. Accurately modeling these complex physical phenomena necessitates coupling multiple partial differential equations into a comprehensive framework, complicating both the establishment and solution of these equations. This study seeks to develop a solution incorporating these coupled effects using physics-informed neural networks.
