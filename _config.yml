@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Zhang"
+title                    : "Lijun"
 title_separator          : "-"
-name                     : &name "Yu Zhang"
+name                     : &name "Lijun"
 description              : &description ""
-url                      : "YuZhang-UNSAT.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Lilj1999.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuZhang-UNSAT/YuZhang-UNSAT.github.io/"
+repository               : "Lilj1999/Lilj1999.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Zhang"
+  name             : "Lijun Li"
   avatar           : "Llj.png"
   bio              : "Hunan University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "zhangyu10@hnu.edu.cn"
+  email            : "lilijun@hnu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Lijun-Li-18/research"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YuZhang-UNSAT"
+  github           : "Lilj1999"
   google_plus      :
   keybase          :
   instagram        :
