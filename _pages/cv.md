@@ -11,28 +11,26 @@ redirect_from:
 
 Education
 ======
-* M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2024
+* M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2022—2025 (expected)
 
-  GPA: **3.49/4.00**    Ranking:-
+  GPA: **3.55/4.00**    Ranking:-
 
-  Curriculum: Numerical Analysis, Dynamics of Structure, Rock and Soil Dynamics, Advanced Soil Mechanics
+  Curriculum: Robots and Control; Data science; Advanced Soil Mechanics; Machine learning.
   
-* B.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2021
+* B.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2018—2022
 
-  GPA: **3.68/4.00**    Ranking: **7/128**
+  GPA: **3.71/4.00**    Ranking: **1/52**
 
-  Curriculum: Advanced Mathematics, Theoretical Mechanics, Mechanics of Materials, Structural Mechanics, Soil Mechanics
+  Curriculum: Theoretical Mechanics; Material Mechanics; Soil and Rock Mechanics; Tunneling Engineering.
 
   
 Publication 
 ======
-1. Zhang, C.\*, **L. Li**, S. Hu, L. Gou, and R. Chen. 2024. “Physical origin of adsorption heat and its significance in the isotherm equation.” *International Journal of Heat and Mass Transfer*, 220: 124914. https://doi.org/10.1016/j.ijheatmasstransfer.2023.124914.
+1. **Yu. Zhang**, Linyun. Gou\*, Chao. Zhang, Zemin. Qiu, Renpeng. Chen(2024). Role of iron oxide content in mechanical properties of granite residual soil in full suction range. *Acta Geotechnica*. [[Paper]](https://doi.org/10.1007/s11440-023-02215-6)
 
-2. **Li, L.**, Zhang, C.\*, Hu, S. 2024. Hydrogen Bonding Network of Adsorptive Water in Variably Saturated Soil. *Geotechnique* (under review).
+2. Chao. Zhang, **Yu. Zhang**, Yuhao. Ren, Qihang. Huang\*, Renpeng. Chen(2024). Domain adaptation CNN-GRU Network: A transferable framework for shield chamber pressure prediction across projects. *Automation in Construction* (submitted).
 
-3. Zhang, C., **L. Li**,  Or, D\*, et al., 2024. Interactions with Soil Surfaces Contribute to Evapotranspiration partitioning. *Nature* (under consideration).
-
-
+3. Chao. Zhang, **Yu. Zhang**, et.al. (2024). A coupled dynamics modeling of parallel mechanisms confined in the deformable medium. <strong>Automation in Construction</strong> (Under consideration).
 
 \*:Supervisor 
 
@@ -90,10 +88,12 @@ Skills
   * LaTeX
   * Sketchbook
   * KeyShot
-  * IELTS test 7.0  
+  * IELTS test 6.5 
 
 Honors and Awards  
 ======
-1. Outstanding Undergraduate Graduates of Hunan Province, Department of Education of the Hunan Province, May 2021 
-2. First Class Scholarship of Hunan University, Hunan University, November 2020
-3. Champion of Hunan University Volleyball League, Jun. 2023-2024.
+1. National scholarship for Postgraduates, Ministry of Education of the People's Republic of China, November 2024
+2. Outstanding Undergraduate Graduates of Hunan Province, Department of Education of the Hunan Province, May 2022
+3. National Scholarship, Ministry of Education of the People's Republic of China, November 2021
+4. First-prize Academic Scholarship, Hunan University, November 2020
+5. National Scholarship, Ministry of Education of the People's Republic of China, November 2019
