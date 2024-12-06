@@ -12,11 +12,9 @@ I am now a 3rd-year graduate student in the Department of Civil Engineering at H
 
 My passion lies in advancing the intelligent driving of shield machines for tunneling engineering. I integrate unsaturated soil mechanics, machine learning, and multibody dynamics to advance the intelligent control of shield/underground tunneling robots in complex strata. Recently, I have focused on developing a control-oriented dynamics modeling approach for shield machines operating in deformable media.
 
-Please find my publication list [here](https://yuzhang-unsat.github.io) or through [ResearchGate](https://www.researchgate.net/profile/Yu-Zhang-1216/research).
-
 In the UNSAT lab, I belong to a five-member group focusing on intelligent construction of underground space. I work closely with the other four members: Yangkai Gong, Du Han, Yi Dai, and Guodong Wu, who are the most incredible, talented, and beautiful partners ever.
 
-Feel free to communicate about research works via **zhangyu10@hnu.edu.cn** or **Wechat: wxid_is9rr3un7n8r22**.
+Please find my publication list [here](https://yuzhang-unsat.github.io) or through [ResearchGate](https://www.researchgate.net/profile/Yu-Zhang-1216/research). Feel free to communicate about research works via **zhangyu10@hnu.edu.cn** or **Wechat: wxid_is9rr3un7n8r22**.
 
 Recent news
 ======
