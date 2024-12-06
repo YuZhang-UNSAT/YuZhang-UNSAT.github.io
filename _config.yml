@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "YuZhang"
 title_separator          : "-"
-name                     : &name "Lijun"
+name                     : &name "YuZhang"
 description              : &description ""
 url                      : "https://Lilj1999.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
