@@ -37,8 +37,10 @@ Publication
 Experience 
 ======
 * **Role of iron oxide cementation on the mechanical properties of granite residual soil**
-  
+
+  <p style="text-align: justify;">
   Granite residual soil is a widely encountered clayey soil with unique microscopic soil structures. Its soil structures mainly stem from the presence of interparticle cementation by iron oxide. An attempt is made herein to experimentally quantify the impact of interparticle iron oxide cementation on soil’s mechanical properties, particularly in the high suction range.
+  </p>
 
 <img src="http://YuZhang-UNSAT.github.io/images/Granite%20soil.png" width="1000" />
 
