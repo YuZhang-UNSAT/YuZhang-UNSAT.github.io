@@ -8,7 +8,7 @@ author_profile: true
 ![conference](http://YuZhang-UNSAT.github.io/images/Meeting-zy.jpg)
 <center>The photo in the 2FOMLIG & 5MLIGD meeting. I'm the third from the left.</center>
 
-![conference](http://YuZhang-UNSAT.github.io/images/competition-zy.jpg)
+![conference](http://YuZhang-UNSAT.github.io/images/Competition-zy.jpg)
 <center>The photo in the BIM Advanced Modeling Competition.</center>
 
 ![team](http://YuZhang-UNSAT.github.io/images/Tunneling1-zy.jpg)
