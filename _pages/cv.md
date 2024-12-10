@@ -79,6 +79,6 @@ Honors and Awards
 
 Skills
 ======
-* **Knowledge**: Unsaturated soil mechanics, machine learning, Mechanism Dynamics
-* **Experiment skill**: X-ray diffraction, SEM-EDS analysis, Drying cake method, Experimental Platform for Shield Machine Propulsion
+* **Knowledge**: Unsaturated soil mechanics, Machine learning, Mechanism dynamics
+* **Experiment skill**: X-ray diffraction, SEM-EDS analysis, Drying cake method, Shield machine propulsion experimental platform 
 * **Languages**: Chinese (native), English (fluent)
