@@ -68,42 +68,17 @@ projects.
 
 <div style="text-align:center;">More details will be posted in an official release.</div>
 
+Honors and Awards  
+======
+1. **National scholarship for Postgraduates**, Ministry of Education of the People's Republic of China, November 2024
+2. **Outstanding Undergraduate Graduates of Hunan Province**, Department of Education of the Hunan Province, May 2022
+3. **First-class Prize** in the National BIM Modeling and Innovation Competition, Ministry of Education of the People's Republic of China, November 2021
+4. **National Scholarship**, Ministry of Education of the People's Republic of China, November 2021
+5. **First-prize Academic Scholarship**, Hunan University, November 2020
+6. **National Scholarship**, Ministry of Education of the People's Republic of China, November 2019
 
 Skills
 ======
-* **Knowledge**
-  * Unsaturated soil mechanics
-  * Thermodynamics
-  * Statistics
-  * Nucleation theory
-  * Mass-dependent and mass-independent fractionation
-  * *ab initio* theory
-
-* **Experiment skill**
-  * Fourier transformation Infrared spectroscopy
-  * Small-angle neutron scattering
-  * Wide-range X-ray scattering
-  * Axis translation technique
-  * Differential scanning calorimetry
-  * Atomic force microscope
- 
-* **Programming & Software**
-  * Python
-  * MATLAB
-  * LAMMPS
-  * ANSYS
- 
-* **Others**
-  * Office
-  * LaTeX
-  * Sketchbook
-  * KeyShot
-  * IELTS test 6.5 
-
-Honors and Awards  
-======
-1. National scholarship for Postgraduates, Ministry of Education of the People's Republic of China, November 2024
-2. Outstanding Undergraduate Graduates of Hunan Province, Department of Education of the Hunan Province, May 2022
-3. National Scholarship, Ministry of Education of the People's Republic of China, November 2021
-4. First-prize Academic Scholarship, Hunan University, November 2020
-5. National Scholarship, Ministry of Education of the People's Republic of China, November 2019
+* **Knowledge**: Unsaturated soil mechanics, machine learning, Mechanism Dynamics
+* **Experiment skill**: X-ray diffraction, SEM-EDS analysis, drying cake method, shield propulsion system simulation testing
+* **Languages**: Chinese (native), English (fluent)
