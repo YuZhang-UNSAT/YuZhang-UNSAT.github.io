@@ -37,17 +37,17 @@ Publication
 Experience 
 ======
 * **Role of iron oxide cementation on the mechanical properties of granite residual soil**
-  * Granite residual soil is a widely encountered clayey soil with unique microscopic soil structures. Its soil structures mainly stem from the presence of interparticle cementation by iron oxide. An attempt is made herein to experimentally quantify the impact of interparticle iron oxide cementation on soil’s mechanical properties, particularly in the high suction range.
+  Granite residual soil is a widely encountered clayey soil with unique microscopic soil structures. Its soil structures mainly stem from the presence of interparticle cementation by iron oxide. An attempt is made herein to experimentally quantify the impact of interparticle iron oxide cementation on soil’s mechanical properties, particularly in the high suction range.
 <img src="http://YuZhang-UNSAT.github.io/images/Granite soil.png" width="1000" />
 <center> More details can be found in the published version. </center>
 
 * **Domain adaptation for chamber pressure prediction in EPB shield tunneling**
-  * The chamber pressure is the pressure of excavated geomaterials in the sealed chamber during the earth pressure balance (EPB) shield tunneling process. It helps maintain the mechanical stability of the excavation face and varies spatially and temporally. A transferable deep learning framework, the Domain adaptation CNN-GRU Network (DaCG-Net), is proposed to predict spatiotemporal variations in chamber pressure across various
+  The chamber pressure is the pressure of excavated geomaterials in the sealed chamber during the earth pressure balance (EPB) shield tunneling process. It helps maintain the mechanical stability of the excavation face and varies spatially and temporally. A transferable deep learning framework, the Domain adaptation CNN-GRU Network (DaCG-Net), is proposed to predict spatiotemporal variations in chamber pressure across various
 projects.
 <img src="http://YuZhang-UNSAT.github.io/images/domain adaptation.png" width="1000" />
 
 * **Dynamic modeling of parallel mechanisms confined in deformable medium**
-  * Parallel mechanisms are widely employed in underground excavation tasks due to their high load-bearing capacity and precise positioning. In such applications, the ground is treated as a deformable medium that imposes flexible constraints on the mechanism's end-effector motion. Traditional analyses typically focus on static force and torque balance, neglecting energy exchange and dissipation between the parallel mechanism and the environment. This omission can lead to inaccurate posture predictions. To address this, a coupled dynamics modeling approach is proposed, enabling the accurate determination of the forward kinematics of the parallel mechanism.
+  Parallel mechanisms are widely employed in underground excavation tasks due to their high load-bearing capacity and precise positioning. In such applications, the ground is treated as a deformable medium that imposes flexible constraints on the mechanism's end-effector motion. Traditional analyses typically focus on static force and torque balance, neglecting energy exchange and dissipation between the parallel mechanism and the environment. This omission can lead to inaccurate posture predictions. To address this, a coupled dynamics modeling approach is proposed, enabling the accurate determination of the forward kinematics of the parallel mechanism.
 <img src="http://YuZhang-UNSAT.github.io/images/parallel mechanism.png" width="1000" />
 
 
