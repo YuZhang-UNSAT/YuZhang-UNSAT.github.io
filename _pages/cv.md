@@ -48,7 +48,7 @@ projects.
 
 * **Dynamic modeling of parallel mechanisms confined in deformable medium**
   * Parallel mechanisms are widely employed in underground excavation tasks due to their high load-bearing capacity and precise positioning. In such applications, the ground is treated as a deformable medium that imposes flexible constraints on the mechanism's end-effector motion. Traditional analyses typically focus on static force and torque balance, neglecting energy exchange and dissipation between the parallel mechanism and the environment. This omission can lead to inaccurate posture predictions. To address this, a coupled dynamics modeling approach is proposed, enabling the accurate determination of the forward kinematics of the parallel mechanism.
-<img src="http://YuZhang-UNSAT.github.io/images/parallel mechanism.png" width="800" />
+<img src="http://YuZhang-UNSAT.github.io/images/parallel mechanism.png" width="1000" />
 
 
 Skills
