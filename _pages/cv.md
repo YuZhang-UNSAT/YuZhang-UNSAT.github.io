@@ -36,27 +36,19 @@ Publication
 
 Experience 
 ======
-* **Physical origins and significance of adsorption heat**
-  * Adsorption heat is a cornerstone concept underpinning almost all the existing theoretical isotherms for porous media. However, it remains elusive what this concept stands for and the physical sources for it. This work elucidated the physical origins of the adsorption heat with the aid of the law of mass action, facilitating the establishment of a two-parameter sorption isotherm equation theoretically converted to two widely used adsorption isotherm equations.
+* **Role of iron oxide cementation on the mechanical properties of granite residual soil**
+  * Granite residual soil is a widely encountered clayey soil with unique microscopic soil structures. Its soil structures mainly stem from the presence of interparticle cementation by iron oxide. An attempt is made herein to experimentally quantify the impact of interparticle iron oxide cementation on soil’s mechanical properties, particularly in the high suction range.
 ![pinn](http://Lilj1999.github.io/images/AdsorptionHeatFig1.png)
-<center> Illustration of the spatially varying external chemical potential (-μext) in an adsorption system. More details will be posted in an official release. </center>
+<center> More details can be found in the published version. </center>
 
-
-* **Heterogeneous ice nucleation of salt solution in porous media**
-  * To date, the freezing temperature depression behavior of the solution in porous media remains elusive which physical mechanism accounts for its freezing temperature and how dissolved ions affect it. This work designed a series of pore-scale experiments to investigate the freezing temperature of salt solutions in tubes with varying pore diameters, pore solution volumes, solid-liquid interface areas, ion concentrations, and ion types.
+* **Domain adaptation for chamber pressure prediction in EPB shield tunneling**
+  * The chamber pressure is the pressure of excavated geomaterials in the sealed chamber during the earth pressure balance (EPB) shield tunneling process. It helps maintain the mechanical stability of the excavation face and varies spatially and temporally. A transferable deep learning framework, the Domain adaptation CNN-GRU Network (DaCG-Net), is proposed to predict spatiotemporal variations in chamber pressure across various
+projects.
 <img src="http://Lilj1999.github.io/images/Freezing.gif" width="1000" />
 
-* **Molecular simulation of water adsorbed on mineral**
-  * Adsorptive water in soils exhibits a more structured hydrogen bonding (HB) network compared to bulk water, but accurately detecting the HB network density of adsorptive water in soils remains challenging. This work aims to utilize molecular simulation to quantitatively characterize the amount and density evolution of adsorbed water in soils within a drying-wetting cycle.
+* **Dynamic modeling of parallel mechanisms confined in deformable medium**
+  * Parallel mechanisms are widely employed in underground excavation tasks due to their high load-bearing capacity and precise positioning. In such applications, the ground is treated as a deformable medium that imposes flexible constraints on the mechanism's end-effector motion. Traditional analyses typically focus on static force and torque balance, neglecting energy exchange and dissipation between the parallel mechanism and the environment. This omission can lead to inaccurate posture predictions. To address this, a coupled dynamics modeling approach is proposed, enabling the accurate determination of the forward kinematics of the parallel mechanism.
 <img src="http://Lilj1999.github.io/images/MD.gif" width="800" />
-
-* **Modeling of the nonlinear wave propagation by physics-informed neural networks**
-  * High-energy waves induce nonlinear behaviors, such as thermal effects, in wave propagation. Accurately modeling these complex physical phenomena necessitates coupling multiple partial differential equations into a comprehensive framework, complicating both the establishment and solution of these equations. This study seeks to develop a solution incorporating these coupled effects using physics-informed neural networks.
-
-
-* **Effect of periodontal ligament height on orthodontic performance**
-  * Orthodontics utilizes appliances to apply force to teeth, gradually moving them to the desired positions. This process induces stress and strain in surrounding tissues including adjacent teeth, alveolar bone, and periodontal ligaments. These tissue mechanical responses affect the stability of teeth movement. Controlling the stress and strain in surrounding tissues is crucial for optimizing orthodontic outcomes. This work investigates the effect of
-periodontal ligament height on tissue’s mechanical responses under the same orthodontic treatment. It finds that lower periodontal ligament height results in higher stress on the target teeth’s periodontal ligaments, making it easier to reach the load-bearing limit.
 
 
 Skills
