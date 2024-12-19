@@ -16,6 +16,9 @@ In the UNSAT lab, I belong to a five-member group focusing on intelligent constr
 
 Please find my publication list [here](https://yuzhang-unsat.github.io) or through [ResearchGate](https://www.researchgate.net/profile/Yu-Zhang-1216/research). Feel free to communicate about research works via **zhangyu10@hnu.edu.cn** or **Wechat: wxid_is9rr3un7n8r22**.
 
+![conference](http://YuZhang-UNSAT.github.io/images/Fig1.jpg)
+<center>Research framework for the intelligent driving system for EPB shield.</center>
+
 Recent news
 ======
 
