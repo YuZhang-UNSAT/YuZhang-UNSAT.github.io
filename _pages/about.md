@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a 3rd-year graduate student in the Department of Civil Engineering at Hunan University, supervised by [Prof. Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao). I joined Prof. Zhang’s UNSAT lab in 2022 as a 3-rd year undergraduate student.
+I am now a 3rd-year graduate student in the Department of Civil Engineering at Hunan University, supervised by [Prof. Chao Zhang](https://chaozhanghnu.github.io/). I joined Prof. Zhang’s UNSAT lab in 2022 as a 3-rd year undergraduate student.
 
 My passion lies in advancing the intelligent driving of shield machines for tunneling engineering. I integrate unsaturated soil mechanics, machine learning, and multibody dynamics to advance the intelligent control of shield/underground tunneling robots in complex strata. Recently, I have focused on developing a control-oriented dynamics modeling approach for shield machines operating in deformable media.
 
