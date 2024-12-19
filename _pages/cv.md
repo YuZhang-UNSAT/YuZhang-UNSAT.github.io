@@ -26,9 +26,9 @@ Education
   
 Publication 
 ======
-1. **Yu. Zhang**, Linyun. Gou\*, Chao. Zhang, Zemin. Qiu, Renpeng. Chen(2024). Role of iron oxide content in mechanical properties of granite residual soil in full suction range. *Acta Geotechnica*. [[Paper]](https://doi.org/10.1007/s11440-023-02215-6)
+1. **Yu. Zhang**, Linyun. Gou\*, Chao. Zhang, Zemin. Qiu, Renpeng. Chen(2024). Role of iron oxide content in mechanical properties of granite residual soil in full suction range. *Acta Geotechnica*. （Impact Factor：**5.60**） [[Paper]](https://doi.org/10.1007/s11440-023-02215-6)
 
-2. Chao. Zhang, **Yu. Zhang**, Yuhao. Ren, Qihang. Huang\*, Renpeng. Chen(2024). Domain adaptation CNN-GRU Network: A transferable framework for shield chamber pressure prediction across projects. *Automation in Construction* (submitted).
+2. Chao. Zhang, **Yu. Zhang**, Yuhao. Ren, Qihang. Huang\*, Renpeng. Chen(2024). Domain adaptation CNN-GRU Network: A transferable framework for shield chamber pressure prediction across projects. *Automation in Construction* （Impact Factor：**9.60**） (Under review).
 
 3. Chao. Zhang, **Yu. Zhang**, et.al. (2024). A coupled dynamics modeling of parallel mechanisms confined in the deformable medium. <strong>Automation in Construction</strong> (Under consideration).
 
